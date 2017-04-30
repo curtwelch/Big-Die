@@ -6,4 +6,4 @@ Included here are the Fusion 360 CAD files, DXF files, and STL files.
 
 I will add more pictutes and deatils as the project progresses.
 
-![die](pictures/IMG_5676.jpg)
+![die](images/IMG_5676.jpg)
