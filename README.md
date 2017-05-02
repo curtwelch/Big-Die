@@ -22,10 +22,10 @@ The resulting board was then cut apart; sanded; stained on the inside faces; glu
 
 The small 3D Printer plastic cube was printed from the stl file here.  The parts were scaled to make the small parts and allow all 6 sides to be printed at once.  They were then glued together to create the cube.
 
-Many thanks to everyone at (Nova-Labs.org)[http://nova-labs.org/) who helped me learn the skills needed to make this and provide me with access to the machines to make this possible.
+Many thanks to everyone at http://nova-labs.org/ who helped me learn the skills needed to make this and provide me with access to the machines to make this possible.
 
-Curt Welch
-curt@kcwc.com
+Curt Welch<br>
+curt@kcwc.com<br>
 5-1-2017
 
 
