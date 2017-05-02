@@ -8,7 +8,7 @@ Finished CNC Router work, with an Aluminum version I made years ago, and the 3D 
 Cleaning up edges by hand.
 ![IMG_5693.jpg](images/IMG_5693.jpg)
 
-Staning an gluing.
+Staning and gluing.
 ![IMG_5696.jpg](images/IMG_5696.jpg)
 ![IMG_5697.jpg](images/IMG_5697.jpg)
 ![IMG_5699.jpg](images/IMG_5699.jpg)
