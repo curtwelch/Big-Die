@@ -12,7 +12,7 @@ Included here are the Fusion 360 CAD files, DXF files, and STL files.
 
 * <a href="die v7.stl">die v7.stl</a> -- 3D object file for 3D printing
 
-* <a href=" Wooden Die Drawing v3.pdf"> Wooden Die Drawing v3.pdf</a> -- Mechanical Drawing of parts
+* <a href="Wooden Die Drawing v3.pdf">Wooden Die Drawing v3.pdf</a> -- Mechanical Drawing of parts
 
 The Wooden faces were cut from 8"x1" (lumber dimensions) Popular, planed down to the 1/2" thickness and then cut on a ShopSabre cnc router.  The "die v7.dxf" file here was used with the Vcarve Software to program the ShopSabre.
 
