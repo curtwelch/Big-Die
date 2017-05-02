@@ -14,11 +14,14 @@ Included here are the Fusion 360 CAD files, DXF files, and STL files.
 
 * <a href="Wooden Die Drawing v3.pdf">Wooden Die Drawing v3.pdf</a> -- Mechanical Drawing of parts
 
+* [images.md](images.md) -- Pictures hey, what?
+
 The Wooden faces were cut from 8"x1" (lumber dimensions) Popular, planed down to the 1/2" thickness and then cut on a ShopSabre cnc router.  The "die v7.dxf" file here was used with the Vcarve Software to program the ShopSabre.
 
 The resulting board was then cut apart; sanded; stained on the inside faces; glued together; then sanded, stained, an waxed.
 
 The small 3D Printer plastic cube was printed from the stl file here.  The parts were scalled to make the small parts and allow all 6 sides to be printed at once.  They were then glue together to make the final cube.
+
 
 
 
